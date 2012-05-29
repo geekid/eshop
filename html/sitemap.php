@@ -24,7 +24,6 @@
 // {{{ requires
 require_once './require.php';
 require_once CLASS_EX_REALDIR . 'page_extends/LC_Page_Sitemap_Ex.php';
-
 // }}}
 // {{{ generate page
 
